@@ -60,8 +60,10 @@ body.dark {
 }
 
 button {
-    padding: 10px;
+    padding: 10px 15px;
     border-radius: 8px;
+    font-size: 15px;
+    color: black;
 }
 
 .light button {
