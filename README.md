@@ -1,1 +1,1 @@
-# stopwatch-project
+# Digital Stopwatch Project
